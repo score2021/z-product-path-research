@@ -1,0 +1,4 @@
+interface:
+  display_name: "z-Product Path Research"
+  short_description: "Research product paths and evidence"
+  default_prompt: "使用 $z-product-path-research 调研指定产品的关键用户路径，记录证据与阻塞。"
